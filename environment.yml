@@ -8,5 +8,3 @@ dependencies:
   - mpi4py
   - numpy
   - fenics-dolfinx
-  - pip:
-    - ipyparallel>=8.6
