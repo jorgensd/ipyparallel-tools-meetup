@@ -1,0 +1,11 @@
+name: mpi-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - mpich
+  - ipyparallel
+  - ipywidgets
+  - mpi4py
+  - numpy
+  - pip:
+    - ipyparallel>=8.6
