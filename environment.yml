@@ -8,3 +8,4 @@ dependencies:
   - mpi4py
   - numpy
   - fenics-dolfinx
+  - matplotlib
