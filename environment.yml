@@ -9,3 +9,5 @@ dependencies:
   - numpy
   - fenics-dolfinx
   - matplotlib
+  - jupyter
+  - jupyterlab
